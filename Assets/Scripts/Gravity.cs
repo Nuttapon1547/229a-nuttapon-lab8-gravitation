@@ -31,7 +31,6 @@ public class Gravity : MonoBehaviour
          
       }
    }
-
    void Attract(Gravity other)
    { 
       Rigidbody otherRb = other.rb;
